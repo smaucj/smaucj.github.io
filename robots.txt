@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://smaucj.github.io/sitemap/sitemap.vbY.gz
